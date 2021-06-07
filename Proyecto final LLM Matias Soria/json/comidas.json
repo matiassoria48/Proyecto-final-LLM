@@ -1,0 +1,402 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "title": "Brutal Burguer!",
+            "img": "../img/h1.png",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Burguer hecha con carne veggi de lentejas, espinaca con bechamel, pimientos y lechuga."
+        },
+        {
+            "id": 2,
+            "title": "Triple Burguer!",
+            "img": "../img/h2.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "3 Burguers al plato de remolachas, calabazas y espinacas con queso."
+        },
+        {
+            "id": 3,
+            "title": "Burguers Cheese!",
+            "img": "../img/h3.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "2 Burguers de espinaca con queso de cabra y extra de guacamole."
+        },
+        {
+            "id": 4,
+            "title": "Burguer Chedar!",
+            "img": "../img/h4.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Burguer de calabaza con queso chedar y guacamole ."
+        },
+        {
+            "id": 5,
+            "title": "Burguer Limón!",
+            "img": "../img/h5.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Burguers de arroz hechas al limón."
+        },
+        {
+            "id": 6,
+            "title": "Burguer Calabaza!",
+            "img": "../img/h6.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Burguer de calabaza con lechuga y tomate."
+        },
+        {
+            "id": 7,
+            "title": "Burguer sésamo!",
+            "img": "../img/h7.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Burguer de queso y arroz con pan de sesamo."
+        },
+        {
+            "id": 8,
+            "title": "Big Burguer Sesamo!",
+            "img": "../img/h8.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Burger de tortilla con pan de sesamo extra grande."
+        },
+        {
+            "id": 9,
+            "title": "Mini Burgers!",
+            "img": "../img/h9.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Mini burguers de soja crujientes."
+        },
+        {
+            "id": 10,
+            "title": "Burguer de calabaza con patatas y queso en dados!",
+            "img": "../img/h10.jpg",
+            "type": "Hamburguesas",
+            "price": 10,
+            "opinion": "Muy buena eleccion por un bajo precio."
+        },
+        {
+            "id": 11,
+            "title": "Ensalada de Garbanzos",
+            "img": "../img/e1.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada de garbanzos con olivas negras y tomates."
+        },
+        {
+            "id": 12,
+            "title": "Ensalada de pasta",
+            "img": "../img/e2.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada de pasta con olivas negras, tomates cherry y queso."
+        },
+        {
+            "id": 13,
+            "title": "Ensalada con manzana",
+            "img": "../img/e3.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada con manzana, queso y espinacas."
+        },
+        {
+            "id": 14,
+            "title": "Ensalada Guacamole",
+            "img": "../img/e4.png",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada de guacamole, queso y espinacas."
+        },
+        {
+            "id": 15,
+            "title": "Ensalada de Moñas",
+            "img": "../img/e5.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada de pasta con tomates cherry y olivas."
+        },
+        {
+            "id": 16,
+            "title": "Ensalda de brocoli",
+            "img": "../img/e6.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada de brocoli y queso."
+        },
+        {
+            "id": 17,
+            "title": "Ensalada de frutos secos",
+            "img": "../img/e7.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada de guacamole, tomates y frutos secos."
+        },
+        {
+            "id": 18,
+            "title": "Ensalada con Soja",
+            "img": "../img/e8.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada de repollo con trozos de soja texturizada."
+        },
+        {
+            "id": 19,
+            "title": "Ensalada Rusa",
+            "img": "../img/e9.jpg",
+            "type": "Ensaladas",
+            "price": 10,
+            "opinion": "Ensalada rusa con cebolla y zanahoria."
+        },
+        {
+            "id": 20,
+            "title": "Ensalda con galletas",
+            "img": "../img/e10.jpg",
+            "type": "Ensaladas",
+            "opinion": "Ensalada con galletas, tomates cherry y esparragos."
+        },
+        {
+            "id": 21,
+            "title": "Salchichas al Ajo",
+            "img": "../img/s1.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchichas de soja al ajo con salsa de chiles."
+        },
+        {
+            "id": 22,
+            "title": "Salchicha al pan",
+            "img": "../img/s2.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchicha de calabaza al pan con queso feta."
+        },
+        {
+            "id": 23,
+            "title": "Salchicha alemana",
+            "img": "../img/s3.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchicha etilo alemana de lentejas contomates, lechuga y cebolla ."
+        },
+        {
+            "id": 24,
+            "title": "Salchichas de soja",
+            "img": "../img/s4.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchichas de soja con queso de cabra."
+        },
+        {
+            "id": 25,
+            "title": "Salchichas Calabaza",
+            "img": "../img/s5.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchichas de arroz y calabaza."
+        },
+        {
+            "id": 26,
+            "title": "Salchichas x3",
+            "img": "../img/s6.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "3 salchichas de calabaza, soja y lentejas al pan."
+        },
+        {
+            "id": 27,
+            "title": "Salchichas con puré",
+            "img": "../img/s7.jpeg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchichas de lentejas con puré y salsa barbacoa veggie."
+        },
+        {
+            "id": 28,
+            "title": "Salchichas de Calabaza picante",
+            "img": "../img/s8.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchichas de Calabaza picante con guindillas."
+        },
+        {
+            "id": 29,
+            "title": "Salchichas de berenjena y tomate",
+            "img": "../img/s9.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchichas de berenjena y tomate con guindillas."
+        },
+        {
+            "id": 30,
+            "title": "Salchichas de Calabaza con Patatas",
+            "img": "../img/s10.jpg",
+            "type": "Salchichas",
+            "price": 10,
+            "opinion": "Salchichas de Calabaza con Patatas y ensalada.."
+        },
+        {
+            "id": 31,
+            "title": "Nugguets de soja",
+            "img": "../img/v1.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Nuggets de soja y ensalada."
+        },
+        {
+            "id": 32,
+            "title": "Lasagna veggie",
+            "img": "../img/v2.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Lasagna de zuquini y soja con salsa de tomate."
+        },
+        {
+            "id": 33,
+            "title": "Verduras asadas",
+            "img": "../img/v3.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Verduras varias asadas a la parrilla."
+        },
+        {
+            "id": 34,
+            "title": "Arroz con verduras",
+            "img": "../img/v4.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Arroz con verduras al vapor."
+        },
+        {
+            "id": 35,
+            "title": "Pizza de Guacamole",
+            "img": "../img/v5.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Pizza de guacamole con olivas negras y tomates."
+        },
+        {
+            "id": 36,
+            "title": "Pimientos asados",
+            "img": "../img/v6.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Pimientos asados rellenos con huevo y queso ."
+        },
+        {
+            "id": 37,
+            "title": "Tacos de soja",
+            "img": "../img/v7.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Tacos de soja con guacamoles y lechuga."
+        },
+        {
+            "id": 38,
+            "title": "Canelones",
+            "img": "../img/v8.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Canelones de espinaca y queso."
+        },
+        {
+            "id": 39,
+            "title": "Tortilla de patatas",
+            "img": "../img/v9.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Tortilla de patatas con tomates cherry."
+        },
+        {
+            "id": 40,
+            "title": "Tarta de patatas",
+            "img": "../img/v10.jpg",
+            "type": "Variedad",
+            "price": 10,
+            "opinion": "Tarta de patatas con pimientos y queso."
+        },
+        {
+            "id": 41,
+            "title": "Croquetas de espinaca",
+            "img": "../img/c1.jpg",
+            "type": "Croquetas",
+            "opinion": "Croquetas de espinaca y queso."
+        },
+        {
+            "id": 42,
+            "title": "Croquetas de arroz",
+            "img": "../img/c2.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de arroz y bechamel."
+        },
+        {
+            "id": 43,
+            "title": "Croquetas de calabaza",
+            "img": "../img/c3.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de calabaza y mostaza."
+        },
+        {
+            "id": 44,
+            "title": "Croquetas de queso",
+            "img": "../img/c4.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de queso con ensalada de lechuga."
+        },
+        {
+            "id": 45,
+            "title": "Croquetas de zuquini",
+            "img": "../img/c5.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de zuquini y queso de cabra."
+        },
+        {
+            "id": 46,
+            "title": "Croquetas estilo japonés",
+            "img": "../img/c6.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas estilo japonés con ramen veggie en el interior."
+        },
+        {
+            "id": 47,
+            "title": "Croquetas de brocoli",
+            "img": "../img/c7.jpeg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de brocoli y zanahoria."
+        },
+        {
+            "id": 48,
+            "title": "Croquetas de patata",
+            "img": "../img/c8.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de patata con salsa de queso."
+        },
+        {
+            "id": 49,
+            "title": "Croquetas de espinaca y arroz",
+            "img": "../img/c9.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de espinaca y arroz con verduras varias y champinion."
+        },
+        {
+            "id": 50,
+            "title": "Croquetas de calabaza y cheddar",
+            "img": "../img/c10.jpg",
+            "type": "Croquetas",
+            "price": 10,
+            "opinion": "Croquetas de calabaza y salsa cheddar."
+        }
+    ]
+}
